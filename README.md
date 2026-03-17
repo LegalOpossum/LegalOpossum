@@ -44,48 +44,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LegalOpossum&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegalOpossum&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LegalOpossum&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
 
 ## 🧩 Зараз фокусуюсь на
 
 - побудові реальних pet-проєктів
 - роботі з API
 - покращенні структури коду
-- розвитку Git / GitHub workflow
 - підготовці сильного портфоліо
 
 ---
 
-## 🌌 Fun zone
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="cat typing gif" />
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="coding gif" />
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220" alt="tech gif" />
-
-</div>
-
----
 
 
 ## 🌍 Connect with me
