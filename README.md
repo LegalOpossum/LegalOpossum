@@ -56,18 +56,6 @@
 
 
 
-## 🌍 Connect with me
-
-<div align="center">
-
-<a href="https://github.com/LegalOpossum">
-  <img src="https://img.shields.io/badge/GitHub-LegalOpossum-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Дякую, що зайшов на мій профіль
